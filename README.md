@@ -1,6 +1,6 @@
 # ftv-keyboard-ge
 
-<a href="https://github.com/oig123/ftv-style-keyboard-ge/releases/download/untagged-83295727428602e0223f/FireTVStyleKeyboard_GEO_new.apk">FireTVStyleKeyboard_GEO_new.apk</a>
+<a href="https://github.com/oig123/oig123-geo-fire_keyboard/blob/master/app/release/FireTVStyleKeyboard_0.2g-debug.apk">FireTVStyleKeyboard_GEO_new.apk</a>
 
 კლავიატურის გასააქტიურებლად და ნაგულისხმევად დასაყენებლად, საჭიროა ADB Shell
 გამოყენებით და შეიყვანეთ შემდეგი ბრძანებები:
